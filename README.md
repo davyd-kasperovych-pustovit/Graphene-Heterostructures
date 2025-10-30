@@ -1,7 +1,34 @@
-Quantum materials research is driving the development of next-generation electronic and computing technologies, where control of materials at the atomic level determines device performance. Graphene and related two-dimensional materials offer an exceptional platform for studying quantum phenomena such as the quantum Hall effect and superconductivity. In the Finkelstein Lab, we fabricate and refine multilayer heterostructures composed of graphene, graphite, and hexagonal boron nitride (hBN) to enable high-precision quantum transport experiments.
+**Graphene–hBN Heterostructure Fabrication**
 
-The project centers on developing reliable, repeatable fabrication techniques for assembling high-quality graphene-based devices. This includes exfoliating thin flakes, identifying layers of appropriate thickness, and stacking them via polymer-assisted dry transfer methods. Each stage requires experimental precision, iterative optimization, and a deep understanding of the subtle factors that influence final device quality. The resulting heterostructures—such as graphene encapsulated between hBN with a graphite back gate—will be used in cryogenic measurements by researchers in the group.
+**Author:** Davyd Kasperovych-Pustovit
 
-Future directions involve custom AFM etching of graphite back gates, Raman spectroscopy for structural characterization, and exploration of new geometries such as twisted or rhombohedral graphene layers. Through this work, the project aims to establish a reliable fabrication pipeline that will accelerate discovery of emergent quantum phenomena in two-dimensional materials.
+**Affiliation**: Quantum Materials and Devices Lab, Duke University
 
-Work involves cleanroom-based sample preparation, optical inspection of flakes, and refinement of process parameters to improve device quality and reproducibility. Future goals include AFM or Raman characterization and collaborate with graduate researchers on integrating devices for low-temperature studies.
+**Overview**
+
+This repository documents the fabrication and optimization of van der Waals heterostructures composed of graphene, hexagonal boron nitride (hBN), and graphite. These stacks form the basis for quantum transport devices used to study coherent electron behavior and correlated states in two-dimensional materials.
+
+The current focus is on developing reproducible stacking techniques for three-layer (hBN–graphene–hBN) and four-layer (graphite–hBN–graphene–hBN) structures. The goal is to establish a reliable fabrication pipeline with high yield and clean interfaces suitable for low-temperature quantum measurements.
+
+**Results**
+
+Operational Stacks: 2 (one three-layer, one four-layer)
+
+Goal: 20 reproducible stacks by end of 2025
+
+**Future Work**
+
+Increase exfoliation yield through improved tape selection and substrate preparation.
+
+Incorporate AFM and Raman analysis for flake verification.
+
+Integrate completed stacks into superconducting device fabrication.
+
+Automate photo documentation and parameter logging for process analysis.
+
+**Author Notes**
+
+This project is part of my ongoing research in experimental condensed matter physics and quantum device fabrication. The repository will be updated as the stacking process is refined and as additional stacks are fabricated and characterized.
+
+For questions, collaboration, or updates, please contact:
+📧 davydkasperovych@gmail.com
